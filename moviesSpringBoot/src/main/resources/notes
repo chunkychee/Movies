@@ -1,0 +1,8 @@
+MVC Model,View,Controller
+Service JAR class holds the business logic of an application
+
+(DB)
+data layer(Repository) (layer that communicates with the DB) MODEL
+controller layer (API LAYER) CONTROLLER
+business logic(API layer)VIEW
+(react)(FE)
